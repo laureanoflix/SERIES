@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo= 
 #EXTINF:-1 tvg-logo="https://archive.org/download/dzbs-mod_202103/imagen/DZBS.jpg",dbz
 https://archive.org/download/dbz-120/DBZ/DBZ%20118.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/dzbs-mod_202103/imagen/DZBS.jpg",dbz
